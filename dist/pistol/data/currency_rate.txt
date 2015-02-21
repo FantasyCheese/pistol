@@ -1,0 +1,4 @@
+chaos = [currency] = c
+exalted = 70 chaos = ex
+fusing = 0.5 chaos = fu
+alchemy = 0.5 chaos = al
